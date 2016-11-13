@@ -1,4 +1,4 @@
-package net.therap.domain.embeddedEntity;
+package net.therap.domain;
 
 import javax.persistence.Embeddable;
 import java.io.Serializable;
